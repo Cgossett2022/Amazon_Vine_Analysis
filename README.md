@@ -17,12 +17,12 @@ For this project, I analyzed Amazon Reviews written by members of the paid Amazo
 
 - How many Vine Reviews were there?
 
-<img width="1873" alt="vine reviews" src="https://user-images.githubusercontent.com/111243284/208478502-f6f906c8-7979-421f-bf9e-4dba09770920.png">
+<img width="335" alt="total paid reviews" src="https://user-images.githubusercontent.com/111243284/208480207-9f55058d-c7cc-446b-af7b-403e13c8b80d.png">
 
 
 - How many Non-Vine Reviews were there?
 
-<img width="1861" alt="non vine reviews" src="https://user-images.githubusercontent.com/111243284/208478571-c14258c3-a62f-47ae-b365-c4fd1c8b4929.png">
+<img width="361" alt="unpaid vine reviews" src="https://user-images.githubusercontent.com/111243284/208480237-e8a444d7-6d69-470b-ad77-8e1dffe5b944.png">
 
 
 - How many Vine rewiews were 5 stars?
