@@ -25,7 +25,7 @@ For this project, I analyzed Amazon Reviews written by members of the paid Amazo
 <img width="361" alt="unpaid vine reviews" src="https://user-images.githubusercontent.com/111243284/208480237-e8a444d7-6d69-470b-ad77-8e1dffe5b944.png">
 
 
-- How many Vine rewiews were 5 stars?
+- How many Vine reviews were 5 stars?
 
 <img width="631" alt="5 star paid reviews" src="https://user-images.githubusercontent.com/111243284/208479639-f12fd704-f727-49c1-9658-5ccfeac9c597.png">
 
