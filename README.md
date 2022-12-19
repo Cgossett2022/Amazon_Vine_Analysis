@@ -28,7 +28,7 @@ For this project, I analyzed Amazon Reviews written by members of the paid Amazo
 
 - There were 18,019 Non-Vine Reviews
 
-2. How many Vine and Non-Vine reviews were 5 stars?
+2. How many Vine and Non-Vine reviews had 5 stars?
 
 <img width="631" alt="5 star paid reviews" src="https://user-images.githubusercontent.com/111243284/208479639-f12fd704-f727-49c1-9658-5ccfeac9c597.png">
 
@@ -38,7 +38,7 @@ For this project, I analyzed Amazon Reviews written by members of the paid Amazo
 
 - There were 8,482 Non-Vine reviews with 5 stars
 
-3. What percentage of Vine and Non-Vine Reviews were 5 stars?
+3. What percentage of Vine and Non-Vine Reviews had 5 stars?
 
 <img width="655" alt="percentage of 5 star reviews for vine" src="https://user-images.githubusercontent.com/111243284/208479260-0afc3a29-55f0-478d-833a-fa2d48859fbe.png">
 
