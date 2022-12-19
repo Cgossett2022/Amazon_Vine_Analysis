@@ -5,6 +5,8 @@ For this project, I analyzed Amazon Reviews written by members of the paid Amazo
 
 ## Results
 
+### Transformations
+
 - Create a DataFrame where there are 20 or more total votes
 
 <img width="1907" alt="20 or more total votes" src="https://user-images.githubusercontent.com/111243284/208478208-db7a8b5e-4215-4d36-9930-2b06671aa6e6.png">
@@ -14,6 +16,7 @@ For this project, I analyzed Amazon Reviews written by members of the paid Amazo
 
 <img width="1884" alt="helpful votes is greater than 50%" src="https://user-images.githubusercontent.com/111243284/208478375-ec5e3cff-4fe1-447a-aefd-deab3317d8b2.png">
 
+### Calculations
 
 - How many Vine Reviews were there?
 
