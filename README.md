@@ -49,6 +49,6 @@ For this project, I analyzed Amazon Reviews written by members of the paid Amazo
 - 47.07% of Non-Vine Reviews had 5 stars
 
 ## Summary
-
+Based on the results, Vine members are slightly biased when rating their products. Vine Members had roughly 7% more 5 star ratings than Non-Vine members, and there were significantly more Non-Vine members in the dataset. It's clear that Vine members are less critical in their reviews than Non-Vine members. 
 
 
